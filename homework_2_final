@@ -1,0 +1,7 @@
+# Dependencies and Setup
+import matplotlib.pyplot as plt
+import pandas as pd
+import scipy.stats as st
+import numpy as np
+from scipy.stats import linregress
+
